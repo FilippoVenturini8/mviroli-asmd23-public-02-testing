@@ -65,7 +65,7 @@ public class EnvironmentalSensorDeviceIntegrationTest {
 
         // Stubbing behavior for FailingPolicy to ensure turn on attempt succeeds
         when(failingPolicyMock.attemptOn()).thenReturn(true);
-        
+
         // Stubbing behavior for StandardDevice's isOn() method to return true
         when(standardDeviceMock.isOn()).thenReturn(true);
 
