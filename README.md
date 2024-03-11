@@ -1,4 +1,4 @@
-# Lab 02
+# Lab 02 - Testing
 
 ## Task 1: Reorganize
 
